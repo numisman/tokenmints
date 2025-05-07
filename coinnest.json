@@ -1,0 +1,11 @@
+{
+  "name": "Coin Nest",
+  "symbol": "COINNEST",
+  "description": "Birds are HODLing coins!",
+  "image": "https://raw.githubusercontent.com/numisman/tokenmints/main/coinnest.jpeg",
+  "extensions": {
+    "website": "https://www.coinnest.com",
+    "twitter": "https://x.com/coinnest",
+    "telegram": "https://t.me/coinnest"
+  }
+}

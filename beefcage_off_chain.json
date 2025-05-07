@@ -1,0 +1,11 @@
+{
+  "name": "Beef Cage",
+  "symbol": "BEEFCAGE",
+  "description": "It's a hunk of beef in a cage.  What could go wrong?",
+  "image": "https://lavender-implicit-wallaby-2.mypinata.cloud/ipfs/bafybeibenzbdeoq54rjdbbkvya25d3ed2kyzetbkmtxlsa2bjnrkumktli?filename=beefcage.png",
+  "extensions": {
+    "website": "https://www.beefcage.com",
+    "twitter": "https://x.com/beefcage",
+    "telegram": "https://t.me/beefcage"
+  }
+}

@@ -2,5 +2,10 @@
   "name": "Jazz Jock",
   "symbol": "JAZZJOCK",
   "description": "Look at him blowin' that sax!",
-  "image": "https://raw.githubusercontent.com/numisman/tokenmints/main/jazzjock.png"
+  "image": "https://raw.githubusercontent.com/numisman/tokenmints/main/jazzjock.png",
+  "extensions": {
+    "website": "https://www.jazz.com",
+    "twitter": "https://x.com/jazz",
+    "telegram": "https://t.me/jazz"
+  }
 }
